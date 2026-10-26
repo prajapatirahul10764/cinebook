@@ -1,0 +1,12 @@
+fronted run
+
+new terminal : cd "d:\Project-Movie ticket and review\frontend"
+npm run dev
+
+terminal 2 (backend run)
+cd "d:\Project-Movie ticket and review\backend"
+npm install
+npm run seed
+npm run dev
+
+
